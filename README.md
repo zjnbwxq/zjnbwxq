@@ -1,6 +1,6 @@
 <p align="center">
 <a href="https://github.com/zjnbwxq">
-    <img src="https://readme-typing-svg.demolab.com?font=PT+Serif+&weight=700&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Xiaoqi+Weng;Music+Produce+%7C+Audio+Engineer+%7C+Writer;UI+UX+%7CImmersive+Sound+%7C+Plugins" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=PT+Serif+&weight=700&duration=2000&pause=100&multiline=true&width=500&height=80&lines=Xiaoqi+Weng;Music+Producer+%7C+Audio+Engineer+%7C+Writer;UI+UX+%7CImmersive+Sound+%7C+Plugins" alt="Typing SVG" />
 <!-- </a> -->
 <br/>
 
@@ -39,7 +39,7 @@
 
 <hr />
 
-### 🖥️ Select Projects
+### 🖥️ Selected Projects
 <table>
 <tr><th>Plugin </th><th>Bot</th></tr>
 <tr><td>
