@@ -61,20 +61,20 @@
 <tr><th>Games</th><th>Interactive</th></tr>
 <tr><td>
 
-|Title | Role | Info |
-|--|--|--|
-| [Be My Guest](https://gjmxcrossover.itch.io/bemyguest) |![SoundEngineer](https://img.shields.io/badge/SoundEngineer-black?style=flat-square&logo=musicbrainz)![Composer](https://img.shields.io/badge/Composer-black?style=flat-square&logo=applemusic)![Writer](https://img.shields.io/badge/Writer-black?style=flat-square&logo=instapaper)| A 2D role-play strategy game on a turn-based hunting adventure. |
-| [Girl’s Wonderful Journey](https://www.gcores.com/games/125872) |![SoundEngineer](https://img.shields.io/badge/SoundEngineer-black?style=flat-square&logo=musicbrainz)![Composer](https://img.shields.io/badge/Composer-black?style=flat-square&logo=applemusic)| A micro-raising AVG for teenage girls that is easy and cozy to heal!|
-| [Listen](https://wanghai9963.itch.io/listen) |![SoundEngineer](https://img.shields.io/badge/SoundEngineer-black?style=flat-square&logo=musicbrainz)![Composer](https://img.shields.io/badge/Composer-black?style=flat-square&logo=applemusic)| Listen & Watch|
-| [Relignition](https://www.gcores.com/games/105435) |![SoundEngineer](https://img.shields.io/badge/SoundEngineer-black?style=flat-square&logo=musicbrainz)![Composer](https://img.shields.io/badge/Composer-black?style=flat-square&logo=applemusic)|3D SVG + AVG Game.|
+|Title | Role |
+|--|--|
+| [Be My Guest](https://gjmxcrossover.itch.io/bemyguest) |![SoundEngineer](https://img.shields.io/badge/SoundEngineer-black?style=flat-square&logo=musicbrainz)![Composer](https://img.shields.io/badge/Composer-black?style=flat-square&logo=applemusic)![Writer](https://img.shields.io/badge/Writer-black?style=flat-square&logo=instapaper)|
+| [Girl’s Wonderful Journey](https://www.gcores.com/games/125872) |![SoundEngineer](https://img.shields.io/badge/SoundEngineer-black?style=flat-square&logo=musicbrainz)![Composer](https://img.shields.io/badge/Composer-black?style=flat-square&logo=applemusic)|
+| [Listen](https://wanghai9963.itch.io/listen) |![SoundEngineer](https://img.shields.io/badge/SoundEngineer-black?style=flat-square&logo=musicbrainz)![Composer](https://img.shields.io/badge/Composer-black?style=flat-square&logo=applemusic)|
+| [Relignition](https://www.gcores.com/games/105435) |![SoundEngineer](https://img.shields.io/badge/SoundEngineer-black?style=flat-square&logo=musicbrainz)![Composer](https://img.shields.io/badge/Composer-black?style=flat-square&logo=applemusic)|
 
 
 </td><td>
 
-|Title | Technologies | Info |
+|Title | Technologies |
 |--|--|--|
-| [Yunnan Don’t Have Ocean](https://zjnbwxq.github.io/Xiaoqi-Weng.github.io//portfolio/portfolio-1/)| ![Reactivision](https://img.shields.io/badge/Reactivision-black?style=flat-square)![Pure Data](https://img.shields.io/badge/PureData-black?style=flat-square&logo=PureData)![Reaper](https://img.shields.io/badge/Reaper-black?style=flat-square&logo=Reaper)![Touchdesigner](https://img.shields.io/badge/Touchdesigner-black?style=flat-square&logo=Touchdesigner)|Yi ethnic minority folk tunes were used.|
-| [Pink Hair](https://zjnbwxq.github.io/Xiaoqi-Weng.github.io//portfolio/portfolio-5/)|![MuseScore](https://img.shields.io/badge/MuseScore-black?style=flat-square&logo=MuseScore)![Reaper](https://img.shields.io/badge/Reaper-black?style=flat-square&logo=Reaper)|As a memorial only.|
+| [Yunnan Don’t Have Ocean](https://zjnbwxq.github.io/Xiaoqi-Weng.github.io//portfolio/portfolio-1/)| ![Reactivision](https://img.shields.io/badge/Reactivision-black?style=flat-square)![Pure Data](https://img.shields.io/badge/PureData-black?style=flat-square&logo=PureData)![Reaper](https://img.shields.io/badge/Reaper-black?style=flat-square&logo=Reaper)![Touchdesigner](https://img.shields.io/badge/Touchdesigner-black?style=flat-square&logo=Touchdesigner)|
+| [Pink Hair](https://zjnbwxq.github.io/Xiaoqi-Weng.github.io//portfolio/portfolio-5/)|![MuseScore](https://img.shields.io/badge/MuseScore-black?style=flat-square&logo=MuseScore)![Reaper](https://img.shields.io/badge/Reaper-black?style=flat-square&logo=Reaper)|
 
 </td><tr></table>
 
@@ -97,6 +97,6 @@ My Github Stats
 <hr />
 
 
-Currently Coding & Listening to:
+Currently Listening to:
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view.svg?uid=p6r2yc7yme0jeqt37s1kxjag8&cover_image=false&theme=default&show_offline=true&background_color=0d0d0d&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://open.spotify.com/user/p6r2yc7yme0jeqt37s1kxjag8)
