@@ -72,7 +72,7 @@
 </td><td>
 
 |Title | Technologies |
-|--|--|--|
+|--|--|
 | [Yunnan Don’t Have Ocean](https://zjnbwxq.github.io/Xiaoqi-Weng.github.io//portfolio/portfolio-1/)| ![Reactivision](https://img.shields.io/badge/Reactivision-black?style=flat-square)![Pure Data](https://img.shields.io/badge/PureData-black?style=flat-square&logo=PureData)![Reaper](https://img.shields.io/badge/Reaper-black?style=flat-square&logo=Reaper)![Touchdesigner](https://img.shields.io/badge/Touchdesigner-black?style=flat-square&logo=Touchdesigner)|
 | [Pink Hair](https://zjnbwxq.github.io/Xiaoqi-Weng.github.io//portfolio/portfolio-5/)|![MuseScore](https://img.shields.io/badge/MuseScore-black?style=flat-square&logo=MuseScore)![Reaper](https://img.shields.io/badge/Reaper-black?style=flat-square&logo=Reaper)|
 
