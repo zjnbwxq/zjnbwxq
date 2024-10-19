@@ -86,7 +86,7 @@ My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zjnbwxq&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zjnbwxq&theme=dracula)
-[![trophy](https://github-profile-trophy.vercel.app/?zjnbwxq=ryo-ma&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+![](https://github-profile-trophy.vercel.app/?zjnbwxq=ryo-ma&theme=gruvbox)
 
 
 <br>
