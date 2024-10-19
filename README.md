@@ -86,9 +86,7 @@ My Github Stats
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zjnbwxq&theme=dracula) 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zjnbwxq&theme=dracula)
-<a href="https://github.com/zjnbwxq/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 
-</a>
 
 <br>
 </details>      
