@@ -53,7 +53,7 @@
 
 |Title | Stars | Languages|
 |--|--|--|
-| [Follow(OB-feat)](https://github.com/zjnbwxq/Follow) | <img alt="Stars" src="https://img.shields.io/github/stars/zjnbwxq/Follow?style=flat-square&labelColor=black"/> ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=TypeScript)![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=cssdesignawards)|
+| [Follow(OB-feat)](https://github.com/zjnbwxq/Follow) | <img alt="Stars" src="https://img.shields.io/github/stars/zjnbwxq/Follow?style=flat-square&labelColor=black"/> | ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=TypeScript)![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=cssdesignawards)|
 | [Simple Database(Plugin)](https://github.com/zjnbwxq/simple-database) | <img alt="Stars" src="https://img.shields.io/github/stars/zjnbwxq/simple-database?style=flat-square&labelColor=black"/> | ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=TypeScript)![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=cssdesignawards)![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript)|
 
 
