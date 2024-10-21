@@ -47,7 +47,6 @@
 |Title | Stars | Languages|
 |--|--|--|
 | [Keymira]((https://github.com/zjnbwxq/Keymira)) | <img alt="Stars" src="https://img.shields.io/github/stars/zjnbwxq/Keymira?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=Python)|
-
 | [Simple Database](https://github.com/zjnbwxq/simple-database) | <img alt="Stars" src="https://img.shields.io/github/stars/zjnbwxq/simple-database?style=flat-square&labelColor=black"/> | ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=TypeScript)![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=cssdesignawards)![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript)|
 
 </td><td>
