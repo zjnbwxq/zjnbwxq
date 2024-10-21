@@ -41,20 +41,20 @@
 
 ### 🖥️ Selected Projects
 <table>
-<tr><th>Feat </th><th>Bot</th></tr>
+<tr><th>Feat </th><th>PR</th></tr>
 <tr><td>
 
 |Title | Stars | Languages|
 |--|--|--|
 | [Keymira]((https://github.com/zjnbwxq/Keymira)) | <img alt="Stars" src="https://img.shields.io/github/stars/zjnbwxq/Keymira?style=flat-square&labelColor=black"/> | ![Python](https://img.shields.io/badge/Python-black?style=flat-square&logo=Python)|
-| [Simple Database](https://github.com/zjnbwxq/simple-database) | <img alt="Stars" src="https://img.shields.io/github/stars/zjnbwxq/simple-database?style=flat-square&labelColor=black"/> | ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=TypeScript)![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=cssdesignawards)![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript)|
+| [neuro-bot](https://github.com/zjnbwxq/neuro-bot) | <img alt="Stars" src="https://img.shields.io/github/stars/zjnbwxq/neuro-bot?style=flat-square&labelColor=black"/> | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript)![Vue](https://img.shields.io/badge/Vue-black?style=flat-square&logo=Vue.js)![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)|
 
 </td><td>
 
 |Title | Stars | Languages|
 |--|--|--|
-| [neuro-bot](https://github.com/zjnbwxq/neuro-bot) | <img alt="Stars" src="https://img.shields.io/github/stars/zjnbwxq/neuro-bot?style=flat-square&labelColor=black"/> | ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript)![Vue](https://img.shields.io/badge/Vue-black?style=flat-square&logo=Vue.js)![HTML](https://img.shields.io/badge/HTML-black?style=flat-square&logo=html5)|
-
+| [Follow(OB-feat)](https://github.com/zjnbwxq/Follow) | <img alt="Stars" src="https://img.shields.io/github/stars/zjnbwxq/Follow?style=flat-square&labelColor=black"/> ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=TypeScript)![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=cssdesignawards)|
+| [Simple Database(Plugin)](https://github.com/zjnbwxq/simple-database) | <img alt="Stars" src="https://img.shields.io/github/stars/zjnbwxq/simple-database?style=flat-square&labelColor=black"/> | ![TypeScript](https://img.shields.io/badge/TypeScript-black?style=flat-square&logo=TypeScript)![CSS](https://img.shields.io/badge/CSS-black?style=flat-square&logo=cssdesignawards)![JavaScript](https://img.shields.io/badge/JavaScript-black?style=flat-square&logo=JavaScript)|
 
 
 </td><tr></table>
