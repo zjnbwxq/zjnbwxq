@@ -31,7 +31,7 @@
 
 </p>
 
-* 🏫 Recently graduated, major in Music Technology. @ [Royal Birmingham Conservatoire](https://www.bcu.ac.uk/conservatoire). 
+* 🏫 Phd at Bournemouth University, Major in Computer Science. 
 
 * 🔬 My research interests include immersive audio, psychoacoustics, and multimodal machine learning.
 
